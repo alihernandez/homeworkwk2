@@ -1,4 +1,9 @@
 body{
     background-color: dimgray ;
     text-decoration-color: firebrick;
+    font-family: 'Press Start 2P', cursive;
+}
+
+a{
+    font-family: 'Player Start 2P';
 }
