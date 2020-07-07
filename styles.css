@@ -1,3 +1,7 @@
+html, body{
+    height: 100%;
+}
+
 body{
     background-color: dimgray ;
     text-decoration-color: firebrick;
@@ -5,5 +9,24 @@ body{
 }
 
 a{
-    font-family: 'Player Start 2P';
+    font-family: 'Press Start 2P';
+}
+
+
+.form-group{
+    border-style: ridge;
+    color: bisque;
+    border-width: 10px;
+}
+
+#h5{
+    color: bisque;
+}
+
+footer{
+    position: relative;
+    height: 50px;
+    margin-top: -50px;
+    grid-row-start: 2;
+    grid-row-end: 3;
 }
