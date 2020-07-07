@@ -19,8 +19,9 @@ a{
     border-width: 10px;
 }
 
-#h5{
-    color: bisque;
+h5{
+    color: darkolivegreen;
+    font-family: 'Press Start 2P';
 }
 
 footer{
