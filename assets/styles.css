@@ -31,3 +31,11 @@ footer{
     grid-row-start: 2;
     grid-row-end: 3;
 }
+
+.card-img-top{
+    float: left;
+}
+
+img{
+    float: left;
+}
