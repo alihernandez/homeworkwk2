@@ -25,6 +25,10 @@ h5{
     font-family: 'Press Start 2P';
 }
 
+ul {
+    align-items: center;
+}
+
 footer{
     position: relative;
     height: 50px;
