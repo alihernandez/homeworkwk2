@@ -42,5 +42,6 @@ footer{
 }
 
 img{
-    float: left;
+    max-height: 20px;
+    max-width: 15px;
 }

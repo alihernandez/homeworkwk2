@@ -1,0 +1,124 @@
+h1, h2, h3, h4, h5, h6{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-size: 12px;
+}
+
+nav {
+    background-color: bisque;
+    font-family: 'Press Start 2P', cursive;
+    box-shadow: black;
+    
+}
+
+.input-field,
+.dropdown-content{
+    font-size: 10px;
+    color: black;
+}
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-bottom: 15px;
+  }
+
+  #mugshot{
+      padding-top: 15px;
+  }
+  
+
+.btn{
+    background-color: darkgray;
+    font-size: 10px;
+    color: black;
+}
+
+header{
+    text-align: center;
+}
+
+main{
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+body {
+    background-color: darkgray;
+    font-family: 'Press Start 2P', cursive;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.container{
+    color: black;
+    
+}
+
+#contactForm{
+    background-color: bisque;
+    border-style: ridge;
+    border-color: lightslategray;
+    border-width: 10px;
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.aboutMe{
+    background-color: bisque;
+    border-style: ridge;
+    border-color: lightslategray;
+    border-width: 10px;
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+}
+
+
+  main {
+    flex: 1 0 auto;
+  }
+
+#projects{
+    background-color: darkgrey;
+    
+}
+
+.card{
+    background-color: bisque;
+    border-style: ridge;
+    border-color: lightslategray;
+    border-width: 10px;
+    text-align: center;
+    min-height: 200px;
+    font-family: 'Press Start 2P', cursive;
+    
+}
+
+a{
+    text-align: center;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.navTitle{
+    text-align: center;
+}
+
+footer,
+
+.page-footer{
+    background-color: bisque;
+    border-color: lightslategray;
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    color: black;
+}
